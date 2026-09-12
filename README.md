@@ -258,4 +258,4 @@ This repository serves as the official landing page for FurMark. The software is
 **Get the most recent version of FurMark today!**
 
 ---
-**Last updated:** 2026-09-12 19:53:47 UTC
+**Last updated:** 2026-09-12 21:50:25 UTC
